@@ -4,3 +4,4 @@
 
 Файл hexlet-check.yml отвечает за запуск этих тестов - не удаляйте этот файл, не редактируйте его и не переименовывайте репозиторий.
 https://github.com/sergey712lab/frontend-project-lvl1/blob/main/.github/workflows/superlinter/badge.svg
+![github.com/sergey712lab/frontend-project-lvl1/tree/main/.github/workflows](https://github.com/sergey712lab/frontend-project-lvl1/blob/main/.github/workflows/superlinter/badge.svg)
