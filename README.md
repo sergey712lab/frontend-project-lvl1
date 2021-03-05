@@ -3,3 +3,4 @@
 <a href="https://codeclimate.com/github/sergey712lab/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/3116f944b4634327c8b0/maintainability" /></a>
 
 https://github.com/sergey712lab/frontend-project-lvl1/blob/main/.github/workflows/superlinter/badge.svg
+https://asciinema.org/a/RASZoW0bVP1aBi1Wfd1t9SoIc
