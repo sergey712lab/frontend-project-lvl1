@@ -4,3 +4,5 @@
 
 https://github.com/sergey712lab/frontend-project-lvl1/blob/main/.github/workflows/superlinter/badge.svg
 https://asciinema.org/a/RASZoW0bVP1aBi1Wfd1t9SoIc
+https://asciinema.org/connect/7fe4d498-95c5-4e94-a059-9e7afe636739
+https://asciinema.org/connect/7fe4d498-95c5-4e94-a059-9e7afe636739
