@@ -1,10 +1,10 @@
 ### Hexlet tests and linter status
 [![Actions Status](https://github.com/sergey712lab/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/sergey712lab/frontend-project-lvl1/actions)
 <a href="https://codeclimate.com/github/sergey712lab/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/3116f944b4634327c8b0/maintainability" /></a>
+[![Actions Status](https://github.com/sergey712lab/frontend-project-lvl1/workflows/superlinter/badge.svg)](https://github.com/sergey712lab/frontend-project-lvl1/actions)
 
-https://github.com/sergey712lab/frontend-project-lvl1/blob/main/.github/workflows/superlinter/badge.svg
-https://asciinema.org/a/RASZoW0bVP1aBi1Wfd1t9SoIc
-https://asciinema.org/connect/7fe4d498-95c5-4e94-a059-9e7afe636739
-https://asciinema.org/connect/7fe4d498-95c5-4e94-a059-9e7afe636739
-https://asciinema.org/connect/7fe4d498-95c5-4e94-a059-9e7afe636739
-https://asciinema.org/connect/7fe4d498-95c5-4e94-a059-9e7afe636739
+[![asciicast](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48.svg)](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48)
+[![asciicast](https://asciinema.org/a/TmcE1vLekuK67DGnkLU0HeQpd.svg)](https://asciinema.org/a/TmcE1vLekuK67DGnkLU0HeQpd)
+[![asciicast](https://asciinema.org/a/nElvQTov3D4HZ8ExMRNxAaxWq.svg)](https://asciinema.org/a/nElvQTov3D4HZ8ExMRNxAaxWq)
+[![asciicast](https://asciinema.org/a/MU3beOdnHa7zNzbsnUyNCDXy4.svg)](https://asciinema.org/a/MU3beOdnHa7zNzbsnUyNCDXy4)
+[![asciicast](https://asciinema.org/a/0563XaGSe7aogvebQMyZFYE38.svg)](https://asciinema.org/a/0563XaGSe7aogvebQMyZFYE38)
