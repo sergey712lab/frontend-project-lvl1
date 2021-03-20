@@ -3,7 +3,7 @@ import readlineSync from 'readline-sync'
 
 console.log('Welcome to the Brain Games!')
 const userName = readlineSync.question('May I have your name? ')
-console.log(console.log(`Hello,${userName}!`))
+console.log(console.log(`Hello, ${userName}!`))
 console.log('Answer "yes" if the number is even, otherwise answer "no".')
 const randomNumberRange = (min, max) => {
   return Math.floor(Math.random() * (max - min) + min)
