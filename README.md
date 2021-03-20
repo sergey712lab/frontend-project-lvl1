@@ -1,4 +1,4 @@
-### Hexlet tests and linter status
+# Hexlet tests and linter status
 [![Hexlet check](https://github.com/sergey712lab/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/sergey712lab/frontend-project-lvl1/actions)
 
 [![Actions Status](https://github.com/sergey712lab/frontend-project-lvl1/workflows/superlinter/badge.svg)](https://github.com/sergey712lab/frontend-project-lvl1/actions)
