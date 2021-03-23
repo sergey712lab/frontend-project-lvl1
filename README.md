@@ -1,7 +1,7 @@
 # Hexlet tests and linter status
-[![Hexlet check](https://github.com/sergey712lab/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/sergey712lab/frontend-project-lvl1/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/sergey712lab/frontend-project-lvl1/maintainability)
 
-[![Actions Status](https://github.com/sergey712lab/frontend-project-lvl1/workflows/superlinter/badge.svg)](https://github.com/sergey712lab/frontend-project-lvl1/actions)
+[![Build Status](https://github.com/sergey712lab/frontend-project-lvl1/blob/main/.github/workflows/master.yml/badge.svg)](https://github.com/sergey712lab/frontend-project-lvl1/blob/main/.github/workflows/master.yml)
 
 [![asciicast](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48.svg)](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48)
 [![asciicast](https://asciinema.org/a/TmcE1vLekuK67DGnkLU0HeQpd.svg)](https://asciinema.org/a/TmcE1vLekuK67DGnkLU0HeQpd)
