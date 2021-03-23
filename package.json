@@ -2,7 +2,7 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "type": "module",
-  "description": "[![Actions Status](https://github.com/sergey712lab/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/sergey712lab/frontend-project-lvl1/actions)",
+  "description": "Welcome to the Brain Games - 5 mini games for fun",
   "main": "index.js",
   "bin": {
     "brain-games": "bin/brain-games.js",
