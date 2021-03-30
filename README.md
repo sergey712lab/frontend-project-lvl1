@@ -3,9 +3,6 @@
 
 <img src="https://github.com/sergey712lab/frontend-project-lvl1/workflows/CI/badge.svg" />
 
-## Getting started
-```sudo npm install -g frontend-sergeylab712-lvl1```
-
 ### Prime numbers
 ```brain-prime```
 [![asciicast](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48.svg)](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48)
