@@ -5,4 +5,3 @@ const cli = () => {
   return console.log(`Hello, ${userName}!`);
 };
 export default cli;
-
