@@ -3,6 +3,8 @@
 
 <img src="https://github.com/sergey712lab/frontend-project-lvl1/workflows/CI/badge.svg" />
 
+<img src="https://github.com/sergey712lab/frontend-project-lvl1/workflows/hexlet-check/badge.svg" />
+
 ### Prime numbers
 ```brain-prime```
 [![asciicast](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48.svg)](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48)
