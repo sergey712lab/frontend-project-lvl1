@@ -5,20 +5,20 @@
 
 ### Prime numbers
 ```brain-prime```
-[![asciicast](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48.svg)](https://asciinema.org/a/8ifgKEwpMSwTzjP3KmD3Unl48)
+[![asciicast](https://asciinema.org/a/iAyBx7BdYsJj4eFFmOI7IuEux.svg)](https://asciinema.org/a/iAyBx7BdYsJj4eFFmOI7IuEux)
 
 ### Result of the expression
 ```brain-calc```
-[![asciicast](https://asciinema.org/a/TmcE1vLekuK67DGnkLU0HeQpd.svg)](https://asciinema.org/a/TmcE1vLekuK67DGnkLU0HeQpd)
+[![asciicast](https://asciinema.org/a/6DMjh6ylNKWkdTlj6CXBbqSCd.svg)](https://asciinema.org/a/6DMjh6ylNKWkdTlj6CXBbqSCd)
 
 ### Result of the expression
 ```brain-gcd```
-[![asciicast](https://asciinema.org/a/nElvQTov3D4HZ8ExMRNxAaxWq.svg)](https://asciinema.org/a/nElvQTov3D4HZ8ExMRNxAaxWq)
+[![asciicast](https://asciinema.org/a/2xQgcGIti5mJiFfDUiaXjdmdX.svg)](https://asciinema.org/a/2xQgcGIti5mJiFfDUiaXjdmdX)
 
 ### Missing numbers in the progression
 ```brain-progression```
-[![asciicast](https://asciinema.org/a/MU3beOdnHa7zNzbsnUyNCDXy4.svg)](https://asciinema.org/a/MU3beOdnHa7zNzbsnUyNCDXy4)
+[![asciicast](https://asciinema.org/a/TZRxnopBm2kL0ObSXTmmfVEny.svg)](https://asciinema.org/a/TZRxnopBm2kL0ObSXTmmfVEny)
 
 ### Even numbers
 ```brain-even```
-[![asciicast](https://asciinema.org/a/BgTvEPOS8zBKbC9nBXL8Pvz0B.svg)](https://asciinema.org/a/BgTvEPOS8zBKbC9nBXL8Pvz0B)
+[![asciicast](https://asciinema.org/a/5Jt7LHtC9rhJnFDxgN0eCM3S0.svg)](https://asciinema.org/a/5Jt7LHtC9rhJnFDxgN0eCM3S0)
