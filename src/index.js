@@ -5,10 +5,9 @@ const roundsCount = 3;
 const welcomeText = 'Welcome to the Brain Games!';
 
 export default (description, getQuestionAndCorrectAnswer) => {
-  console.log(welcomeText);
-  console.log(`${description}\n`);
+  console.log(`${description}`);
   const name = readlineSync.question('May I have your name? ');
-  console.log(`Hello, ${name}!\n`);
+  console.log(`Hello, ${name}!`);
 
   for (let i = 0; i < roundsCount; i += 1) {
     const data = getQuestionAndCorrectAnswer();
