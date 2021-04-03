@@ -14,7 +14,8 @@ export default (description, getQuestionAndCorrectAnswer) => {
     const data = getQuestionAndCorrectAnswer();
     const question = car(data);
     const correctAnswer = cdr(data);
-    const answer = readlineSync.question(`Question: ${question}\nYour answer: `);
+    console.log(`Question: ${question}`);
+    const answer = readlineSync.question(`Your answer: `);
     if (answer === correctAnswer) {
       console.log('Correct!');
     } else {

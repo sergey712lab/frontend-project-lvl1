@@ -2,30 +2,23 @@ import { cons } from '@hexlet/pairs';
 import random from '../libs/random.js';
 import playGame from '../index.js';
 
-const max = 25;
-const operations = '+-*';
 const description = 'What is the result of the expression?';
 
-const getQuestionAndCorrectAnswer = () => {
-  const num1 = random(1, max);
-  const num2 = random(1, max);
-  const operationIndex = random(0, operations.length - 1);
-  const question = `${num1} ${operations.substr(operationIndex, 1)} ${num2}`;
-  let correctAnswer;
-  switch (operations[operationIndex]) {
-    case '+':
-      correctAnswer = num1 + num2;
-      break;
-    case '-':
-      correctAnswer = num1 - num2;
-      break;
-    case '*':
-      correctAnswer = num1 * num2;
-      break;
-    default:
-      return false;
-  }
+const arithmeticOperations = {
+  '+': (val1, val2) => val1 + val2,
+  '-': (val1, val2) => val1 - val2,
+  '*': (val1, val2) => val1 * val2,
+};
+
+const mathSigns = Object.keys(arithmeticOperations);
+
+const getQuestionAnswer = () => {
+  const number1 = random(0, 20);
+  const number2 = random(0, 20);
+  const mathSign = mathSigns[random(0, mathSigns.length - 1)];
+  const question = `${number1} ${mathSign} ${number2}`;
+  const correctAnswer = arithmeticOperations[mathSign](number1, number2).toString();
   return cons(question, String(correctAnswer));
 };
 
-export default () => playGame(description, getQuestionAndCorrectAnswer);
+export default () => playGame(description, getQuestionAnswer);
