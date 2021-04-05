@@ -15,8 +15,8 @@ const isPrime = (num) => {
 
 const getQuestionAndCorrectAnswer = () => {
   const question = random(1, max);
-  const correctAnswer = isPrime(question) ? 'yes' : 'no';
-  return cons(question, correctAnswer);
+  const answer = isPrime(question) ? 'yes' : 'no';
+  return cons(question, answer);
 };
 
 export default () => playGame(description, getQuestionAndCorrectAnswer);

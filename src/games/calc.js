@@ -17,8 +17,8 @@ const getQuestionAnswer = () => {
   const number2 = random(0, 20);
   const mathSign = mathSigns[random(0, mathSigns.length - 1)];
   const question = `${number1} ${mathSign} ${number2}`;
-  const correctAnswer = arithmeticOperations[mathSign](number1, number2).toString();
-  return cons(question, String(correctAnswer));
+  const answer = arithmeticOperations[mathSign](number1, number2).toString();
+  return cons(question, answer);
 };
 
 export default () => playGame(description, getQuestionAnswer);

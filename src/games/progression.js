@@ -15,9 +15,10 @@ const getQuestionAndCorrectAnswer = () => {
   const increment = random(1, 7);
   const sequence = getSequence(filler, increment, progressionLength);
   const gapIndex = random(0, sequence.length - 1);
-  const correctAnswer = sequence[gapIndex];
+  const answer = sequence[gapIndex].toString();
   sequence[gapIndex] = '..';
-  return cons(sequence.join(' '), correctAnswer.toString());
+  const question = sequence.join(' ');
+  return cons(question, answer);
 };
 
 export default () => playGame(description, getQuestionAndCorrectAnswer);

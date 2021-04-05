@@ -10,8 +10,8 @@ const getQuestionAndCorrectAnswer = () => {
   const num1 = random(1, max);
   const num2 = random(1, max);
   const question = `${num1} ${num2}`;
-  const correctAnswer = String(getGcd(num1, num2));
-  return cons(question, correctAnswer);
+  const answer = String(getGcd(num1, num2));
+  return cons(question, answer);
 };
 
 export default () => playGame(description, getQuestionAndCorrectAnswer);

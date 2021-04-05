@@ -1,7 +1,7 @@
 # Hexlet tests and linter status
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/sergey712lab/frontend-project-lvl1/maintainability)
-<img src="https://github.com/sergey712lab/frontend-project-lvl1/workflows/CI/badge.svg" />
-<img src="https://github.com/sergey712lab/frontend-project-lvl1/workflows/hexlet-check/badge.svg" />
+<img src="https://github.com/sergey712lab/frontend-project-lvl1/actions/workflows/CI/badge.svg" />
+<img src="https://github.com/sergey712lab/frontend-project-lvl1/actions/workflows/hexlet-check/badge.svg" />
 
 ### Prime numbers
 ```brain-prime```
